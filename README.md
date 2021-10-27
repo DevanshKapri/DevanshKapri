@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Devansh Kapri
-## 🎓 A CSE Undergraduate at MANIT Bhopal
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=DevanshKapri.visitor-badge)](https://github.com/DevanshKapri)
+# Hi there 👋 I'm Devansh Kapri
+### 🎓 A CSE Undergraduate at MANIT Bhopal
 ![profile count](https://komarev.com/ghpvc/?username=DevanshKapri&color=green)&nbsp;
 
 ### 🛠 &nbsp;Languages
