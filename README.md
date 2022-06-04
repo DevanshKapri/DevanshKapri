@@ -1,4 +1,4 @@
-## Hi,  I'm Devansh Kapri <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
+## Hi,  I'm Devansh Kapri!
 ### 🎓 A CSE Undergraduate at MANIT Bhopal
 ![profile count](https://komarev.com/ghpvc/?username=DevanshKapri&color=green)&nbsp;
 
